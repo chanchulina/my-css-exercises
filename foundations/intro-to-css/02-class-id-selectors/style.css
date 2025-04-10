@@ -1,0 +1,22 @@
+p.base {
+    background-color: #ea9999;
+    font:
+        16px Verdana,
+        DejaVu Sans,
+        sans-serif;
+}
+
+div#type-1 {
+    color: #0046dd;
+    font-size: 36px;
+}
+
+p.base.cooler {
+    font-size: 24px;
+}
+
+div#type-2 {
+    background-color: #54e562;
+    font-size: 24px;
+    font-weight: bold;
+}
