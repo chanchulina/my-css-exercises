@@ -1,0 +1,11 @@
+.text {
+    text-align: left;
+    text-family: Arial, sans-serif;
+}
+
+div.container > p.text {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
