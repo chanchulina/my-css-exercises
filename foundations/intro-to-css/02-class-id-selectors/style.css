@@ -1,9 +1,7 @@
-p.base {
+.base {
     background-color: #ea9999;
-    font:
-        16px Verdana,
-        DejaVu Sans,
-        sans-serif;
+    font-size: 16px;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
 div#type-1 {
@@ -11,12 +9,11 @@ div#type-1 {
     font-size: 36px;
 }
 
-p.base.cooler {
+.adjust-text-size {
     font-size: 24px;
 }
 
 div#type-2 {
     background-color: #54e562;
-    font-size: 24px;
     font-weight: bold;
 }
