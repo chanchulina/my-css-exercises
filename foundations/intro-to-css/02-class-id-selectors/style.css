@@ -1,0 +1,19 @@
+.base {
+    background-color: #ea9999;
+    font-size: 16px;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+div#type-1 {
+    color: #0046dd;
+    font-size: 36px;
+}
+
+.adjust-text-size {
+    font-size: 24px;
+}
+
+div#type-2 {
+    background-color: #54e562;
+    font-weight: bold;
+}
